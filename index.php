@@ -1,3 +1,3 @@
 <?php
-echo " BONJOUR <br> "
+echo " BONJOUR <br> ";
 ?>
